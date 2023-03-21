@@ -2,6 +2,7 @@
 module.exports = {
   content: ["./index.html", "./src/**/*.{js,ts,jsx,tsx}"],
   theme: {
+    screens: {},
     extend: {
       colors: {
         primary: "#2bbef9",
@@ -10,6 +11,10 @@ module.exports = {
         warning: "#ffcd00",
         danger: "#d51243",
         info: "",
+        color: {
+          primary: "#3e445a",
+          secondary: "",
+        },
       },
     },
   },

@@ -1,3 +1,7 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.e-buy-container{
+    max-width: 1200px;
+}

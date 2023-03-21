@@ -1,4 +1,4 @@
-import TopBar from "../components/header/TopBar";
+import TopBar from "./TopBar";
 
 const Header = () => {
   return (

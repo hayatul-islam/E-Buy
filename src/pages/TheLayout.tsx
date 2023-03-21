@@ -1,5 +1,5 @@
 import { BrowserRouter, Routes } from "react-router-dom";
-import Header from "./Header";
+import Header from "../components/shared/header/Header";
 
 const TheLayout = () => {
   return (
